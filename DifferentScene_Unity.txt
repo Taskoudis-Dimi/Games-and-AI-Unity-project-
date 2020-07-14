@@ -1,0 +1,6 @@
+Ιmplementation features:
+
+Scene contains geometry added via the Unity editor (apart from the geometry described above)
+Scene incorporates at least one texture
+Scene incorporates at least two different types of light (e.g. a directional light and a point source)
+Scene includes at least one object imported from another source (e.g. made in Blender, downloaded online, etc. Anything not created in Unity)
