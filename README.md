@@ -1,1 +1,2 @@
-# Games-and-AI-Unity-project-
+# The version being created is 2019.4.3
+# The implementations in the Unity were made for the charaterics without rigidbody 
